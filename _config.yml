@@ -12,20 +12,17 @@ header:
     - label: Sign Up
       url: "/signup"
 footer:
-  logo_img: images/logo_alt.png
-  tagline: SaaS theme by Stackbit
+  logo_img: "/images/feng.png"
+  tagline: Dr Feng's Coding Club
   has_nav: true
-  nav_title: Company
+  nav_title: The Club
   has_social: true
-  social_title: Community
+  social_title: Courses
   has_subscribe: true
   subscribe_title: Subscribe
   subscribe_content: Stay up to date with our latest developments.
-  content: "&copy; Stackbit. All rights reserved."
-  links:
-  - text: Made with Stackbit
-    url: https://www.stackbit.com
-    new_window: true
+  content: "&copy; Dr Feng's Coding Club. All rights reserved."
+  links: []
 sass:
   indentWidth: 4
   style: nested
